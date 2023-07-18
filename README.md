@@ -17,4 +17,10 @@ To run a django deployment tests, run the following command
 ```bash
   python manage.py runserver
 ```
-Finally, open the browser and go to http://127.0.0.1:8000/
+Finally, Visit http://127.0.0.1:8000/ in your browser to enjoy the awesome app!
+
+# About Me
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanashrimachhi)
+[![twitter](https://img.shields.io/badge/behance-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whi)](https://twitter.com/)
+
